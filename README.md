@@ -51,6 +51,4 @@ Masukkan Nama File Hasil : output.py
 ```
 **Untuk Melihat File output.py Ketik `ls` Lalu Enter Maka Akan Terlihat File Bernama output.py**
 
-> _Jangan Lupa Memberikan Bintang Pada Repository Ini Ya >_<_
-
 > _© Arbyhex 2025-08-29_
