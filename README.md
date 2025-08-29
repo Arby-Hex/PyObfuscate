@@ -1,7 +1,16 @@
 <h1 align="center"><code>Python-Obfuscate</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/Checker-Scammer/img/photo_2025-06-29_21-34-12.jpg" width="590"><br><br>
-  <img src="https://img.shields.io/static/v5?label=Daemon+Community&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?label=ArbyHex&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
-  
+  <img src="https://img.shields.io/static/v1?label=Daemon+Community&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?label=Author&color=green&message=ArbyHex&logo=nim&logoColor=white&style=for-the-badge"><br>
+  <img src="https://img.shields.io/github/stars/Arby-Hex/PyObfuscate?style=for-the-badge&logo=github" alt="Stars">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=555555" alt="Python">
+  <img src="https://img.shields.io/github/forks/Arby-Hex/PyObfuscate?style=for-the-badge&logo=github" alt="Forks">
+    <a href="https://tiktok.com/@by_exe9" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
+<a href="https://https://whatsapp.com/channel/0029VbBLBZ80lwgrRDEnyV0v" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 **PyObfuscate adalah Sebuah Alat Untuk Mengubah Kode Program Menjadi Bentuk Yang Sulit Dibaca Atau Dipahami Manusia, Tetapi Tetap Bisa Dijalankan Oleh Interpreter Python.**
 
 **Tujuan Utama Obfuscate Biasanya:**
@@ -42,4 +51,6 @@ Masukkan Nama File Hasil : output.py
 ```
 **Untuk Melihat File output.py Ketik `ls` Lalu Enter Maka Akan Terlihat File Bernama output.py**
 
-# Credits
+> Jangan Lupa Memberikan Bintang Pada Repository Ini Ya >_<
+
+> © Arbyhex 2025-08-29
