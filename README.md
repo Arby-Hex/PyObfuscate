@@ -1,5 +1,5 @@
 <h1 align="center"><code>Python-Obfuscate</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/Checker-Scammer/img/photo_2025-06-29_21-34-12.jpg" width="590"><br><br>
-  <img src="https://img.shields.io/static/v1?label=Daemon+Community&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/static/v5?label=Daemon+Community&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?label=ArbyHex&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   
 **PyObfuscate adalah Sebuah Alat Untuk Mengubah Kode Program Menjadi Bentuk Yang Sulit Dibaca Atau Dipahami Manusia, Tetapi Tetap Bisa Dijalankan Oleh Interpreter Python.**
