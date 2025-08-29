@@ -1,15 +1,15 @@
 # PyObfuscate
-Obfuscate pada file Python adalah proses mengubah kode program menjadi bentuk yang sulit dibaca atau dipahami manusia, tetapi tetap bisa dijalankan oleh interpreter Python.
+**PyObfuscate adalah Sebuah Alat Untuk Mengubah Kode Program Menjadi Bentuk Yang Sulit Dibaca Atau Dipahami Manusia, Tetapi Tetap Bisa Dijalankan Oleh Interpreter Python.**
 
-Tujuan utama obfuscation biasanya:
+**Tujuan Utama Obfuscate Biasanya:**
 
-1. 🔒 Melindungi kode sumber dari pencurian atau plagiarisme.
-
-
-2. 🚫 Menyulitkan reverse engineering (membongkar kembali logika asli program).
+1. 🔒 **Melindungi kode sumber dari pencurian atau plagiarisme**
 
 
-3. 📦 Distribusi aplikasi tanpa memberi source code yang jelas.
+2. 🚫 **Menyulitkan reverse engineering (membongkar kembali logika asli program)**
+
+
+3. 📦 **Distribusi aplikasi tanpa memberi source code yang jelas**
 
 # Install For Termux
 ```bash
@@ -21,7 +21,7 @@ cd PyObfuscate
 python pyobf.py
 ```
 
-*Jika Melakukan Command Di Atas Lalu Terjadi Error Saat Mencoba Menjalankan Tool Nya Lagi. Cukup Jalankan Command Ini*
+**Jika Melakukan Command Di Atas Lalu Terjadi Error Saat Mencoba Menjalankan Tool Nya Lagi. Cukup Jalankan Command Ini**
 
 ```bash
 rm -rf PyObfuscate
@@ -31,12 +31,12 @@ python pyobf.py
 ```
 
 # Cara Menggunakan
-Masukkan Nama File Python Atau Masukkan Path Yang Mengarah Ke File Python Yang Ingin Di Obfuscate. Contoh
+**Masukkan Nama File Python Atau Masukkan Path Yang Mengarah Ke File Python Yang Ingin Di Obfuscate. Contoh**
 ```
 Masukkan Path File Python : example.py
 
 Masukkan Nama File Hasil : output.py
 ```
-Untuk Melihat File output.py Ketik `ls` Lalu Enter Maka Akan Terlihat File Bernama output.py
+**Untuk Melihat File output.py Ketik `ls` Lalu Enter Maka Akan Terlihat File Bernama output.py**
 
 # Credits
