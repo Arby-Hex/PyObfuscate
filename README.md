@@ -7,7 +7,7 @@
     <a href="https://tiktok.com/@by_exe9" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
-<a href="https://https://whatsapp.com/channel/0029VbBLBZ80lwgrRDEnyV0v" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBLBZ80lwgrRDEnyV0v" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
