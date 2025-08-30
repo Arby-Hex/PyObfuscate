@@ -28,7 +28,7 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-git clone https://github.com/Arby-Hex/PyObfuscate
+git clone https://github.com/DaemonTechX/PyObfuscate
 cd PyObfuscate
 python pyobf.py
 ```
@@ -37,7 +37,7 @@ python pyobf.py
 
 ```bash
 rm -rf PyObfuscate
-git clone https://github.com/Arby-Hex/PyObfuscate
+git clone https://github.com/DaemonTechX/PyObfuscate
 cd PyObfuscate
 python pyobf.py
 ```
